@@ -5,6 +5,10 @@ theme: material
 
 nav:
   - Home: index.md
+
   - Overview: overview.md
+
   - About: about.md
+
   - Glossary: glossary.md
+
