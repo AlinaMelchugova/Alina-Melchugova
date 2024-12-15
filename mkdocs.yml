@@ -1,8 +1,0 @@
-site_name: MkDocs API documentation
-site_description: Документация для учебных целей (тестовая)
-theme: material
-
-
-nav:
-  - Home: index.md
-  - About: about.md
